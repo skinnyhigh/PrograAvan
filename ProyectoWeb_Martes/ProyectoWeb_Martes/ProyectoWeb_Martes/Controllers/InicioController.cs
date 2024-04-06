@@ -21,6 +21,10 @@ namespace ProyectoWeb_Martes.Controllers
             return View();
         }
 
+        public ActionResult RecuperarAcceso()
+        {
+            return View();
+        }
         public ActionResult PantallaPrincipal()
         {
             return View();
